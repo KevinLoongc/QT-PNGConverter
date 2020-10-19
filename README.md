@@ -27,6 +27,5 @@ img.save("*.png");
 
 执行程序如下图（Ubuntu16.04系统）。
 
-[![0xUgsg.png](https://s1.ax1x.com/2020/10/19/0xUgsg.png)](https://imgchr.com/i/0xUgsg)
-
+![0xUgsg.png](https://s1.ax1x.com/2020/10/19/0xUgsg.png)
 
