@@ -13,19 +13,16 @@ libpng warning: iCCP: known incorrect sRGB profile
 ## 解决方法
 
 直接用QImage读取一下，然后直接保存回去就可以了。
-
 ```cpp
 QImage img;
 
 img.load("*.png");
 img.save("*.png");
 ```
-
-这里也就是给png做了一个Qt的适配。
-
+上面的操作也就是给png做了一个Qt的适配。
 
 
+软件可以到[Release](https://github.com/LKevin98/QT-PNGConverter/releases/tag/V1.0)下载。
 执行程序如下图（Ubuntu16.04系统）。
-
 ![0xUgsg.png](https://s1.ax1x.com/2020/10/19/0xUgsg.png)
 
